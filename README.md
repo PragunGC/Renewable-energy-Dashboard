@@ -1,5 +1,5 @@
 # Renewable-energy-Dashboard
-An interavctive dashboard using Panel and Hvplot for the Renewable Energy and Weather Conditions
+An interactive dashboard using Panel and Hvplot for the Renewable Energy and Weather Conditions
 
 This is a mini project I did for Data Visualizaton. It is an interactive dashboard created using Python libraries **Hvplot** and **Panel** and other necessary libraries.
 ## Dataset used:
